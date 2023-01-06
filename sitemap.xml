@@ -1,0 +1,22 @@
+<urlset xmlns="https://www.johnnyeosbravos.com.br/sitemap.xml">
+    <url>
+        <loc>https://www.johnnyeosbravos.com.br</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.johnnyeosbravos.com.br/#theband</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.johnnyeosbravos.com.br/#schedule</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.johnnyeosbravos.com.br/#media</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.johnnyeosbravos.com.br/#contact</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+</urlset>
